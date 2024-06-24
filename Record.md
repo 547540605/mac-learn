@@ -36,6 +36,7 @@
   ```
   
   在文件的末尾添加以下行：
+  **一定注意去仔细看看真正的路径对不对**
   
   ```sh
   export PATH=$PATH:/usr/local/share/dotnet
