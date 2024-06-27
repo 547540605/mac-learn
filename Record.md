@@ -130,8 +130,7 @@ echo $PATH
 如果问题依然无法解决，可以联系Unity官方支持寻求帮助。
 
 希望这些方法能帮助你解决问题。
-- # 问题:
-我在zsh里echo $PATH 得到的结果没有Xcode路径
+- # 问题:我在zsh里echo $PATH 得到的结果没有Xcode路径
 - # 回答:
 是的，从你提供的 `$PATH` 输出中没有看到 Xcode 相关的路径。Xcode 的工具通常位于 `/Applications/Xcode.app/Contents/Developer/usr/bin` 或 `/Library/Developer/CommandLineTools/usr/bin`。
 
